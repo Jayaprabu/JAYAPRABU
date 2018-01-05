@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es6",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": false,
+    "noImplicitAny": false,
+    "sourceMap": true,
+    //"outDir": "ts-build",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "strictNullChecks": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
